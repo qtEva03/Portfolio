@@ -1,0 +1,17 @@
+Rendere tutto responsive.
+
+Sezione home page
+Animare diversamente il cambio del .freelancer() e il bottone explore (forse)
+
+
+Sezione explore
+- about me,
+Hi! My name is Eva and I like ideating useful tools to improve people's lives. 
+I'm an IT student and in the mean time I try to apply the knowledge acquired through practical projects  
+
+- linguaggi di programmazione,
+Immagini di Python, Java, MySQL, JavaScript, HTML, CSS, PHP.
+Animare il cambio colore quando si hovera un icona
+
+- progetti,
+- certificazioni.
